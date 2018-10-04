@@ -1,0 +1,7 @@
+<templateSet group="Gradle">
+  <template name="ir" value="def retrofit2_version = &quot;2.4.0&quot;&#10;implementation &quot;com.squareup.retrofit2:retrofit:$retrofit2_version&quot;" description="Add retrofit2 as a dependency" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
