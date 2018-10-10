@@ -1,0 +1,9 @@
+<templateSet group="AndroidLog">
+  <template name="logcall" value="android.util.Log.d(TAG, &quot;$CLASS_NAME$.$METHOD_NAME$ called.&quot;);" description="Log.d(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
