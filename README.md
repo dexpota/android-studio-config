@@ -1,2 +1,3 @@
-# android-studio-templates
-A collection of templates for Android Studio
+# android-studio-config
+
+> A bunch of configuration files for Android Studio
