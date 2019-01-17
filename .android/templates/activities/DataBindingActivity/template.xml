@@ -1,0 +1,20 @@
+<template
+    format="4"
+    revision="1"
+    name="Data Binding Activity"
+    description="Create an activity with data binding enabled." >
+
+    <category value="Activity" />
+
+    <parameter
+        id="activityName"
+        name="Activity Name"
+        type="string"
+        constraints="class|unique|nonempty"
+        default="DataBinding"
+        help="Name of your new Activity" />
+
+    <globals file="globals.xml.ftl" />
+    <execute file="recipe.xml.ftl" />
+
+</template>
