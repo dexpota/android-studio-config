@@ -1,6 +1,7 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <!-- TODO dictionary is missing, you can download it from https://github.com/elastic/hunspell/blob/master/dicts/it_IT/it_IT.dic  -->
       <component  name="SpellCheckerSettings"
                   BundledDictionaries="0"
                   Folders="1" Folder0="$APPLICATION_CONFIG_DIR$/dictionaries"
