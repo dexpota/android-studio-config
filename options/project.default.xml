@@ -1,0 +1,11 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component  name="SpellCheckerSettings"
+                  BundledDictionaries="0"
+                  Folders="1" Folder0="$APPLICATION_CONFIG_DIR$/dictionaries"
+                  CustomDictionaries="1" CustomDictionary0="$USER_HOME$/dictionaries/it.dic"
+                  Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+    </defaultProject>
+  </component>
+</application>
