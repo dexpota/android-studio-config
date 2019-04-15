@@ -5,6 +5,7 @@
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
+	<!-- For more information about items arrangement https://blog.jetbrains.com/idea/2013/10/rearrange-attributes-in-android-xml-files-with-intellij-idea-13/ -->
     <arrangement>
       <rules>
         <section>
